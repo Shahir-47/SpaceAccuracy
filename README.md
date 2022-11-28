@@ -3,7 +3,7 @@
 ### Description:
   A 2d shooter game that tests users accuracy as the user will have to shoot a spaceship. With every hit the spaceship gets the spaceship moves faster. If u miss a bullet the game is over. Its a high scoring game in which the user hits the target and achieves the highest score without missing.
   
-  My knowledge of Functions/Methods and OOP inspired me to code this game and see how far I can get. This game is coded in lua langauge which is similar to your traditional python language but is more useful when it comes to coding games. This is because lua makes it easier to code using the principles of Object Oriented Programming (OOP) than a traditional Integration Development Enivronments (IDE) that uses python. There are mainly 4 source code files that I coded in lua language:
+  My knowledge of Functions/Methods and OOP inspired me to code this game and see how far I can get. This game is coded in lua langauge which is similar to your traditional python language but is more useful when it comes to coding games. This is because lua makes it easier to code using the principles of Object Oriented Programming (OOP) than a traditional Integration Development Enivronments (IDE) that uses python. There are mainly 4 .lua source code files, which are in the "SourceCode" folder:
 
   1. main.lua:- controls the main function of the program like keyboard inputs and background drawing 
   2. player.lua:- the file of player 
@@ -18,10 +18,9 @@
   3. Run SpaceAccuracy.exe
 
  ###### Alternate way to install and run this game:-
-  1. Download all the files except the SpaceAccuracy.zip file
+  1. Download the file named "SourceCode"
   2. Donwload and Intsall Love from :- https://love2d.org/
-  3. Move all the downlaoded files in a newly created folder of your choice (make sure the folder only contains the downloaded files and nothing else)
-  4. Open the file with Love by dragging the newly created folder to the love.exe
+  3. Launch the game by dragging the SourceCode folder to love.exe
 
 
 ### Credits:-
