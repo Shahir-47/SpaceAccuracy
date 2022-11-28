@@ -11,13 +11,13 @@
   4. bullet.lua:- the file of the bullet that the player shoots
 
 
- ### How to Install and Run this game:-
+ ### How to install and run this game:-
 
   1. Download the SpaceAccuracy.zip file in this repository
   2. Extract the SpaceAccuracy.zip file
   3. Run SpaceAccuracy.exe
 
- ####### Alternate way:-
+ ###### Alternate way to install and run this game:-
   1. Download all the files except the SpaceAccuracy.zip file
   2. Donwload and Intsall Love from :- https://love2d.org/
   3. Move all the downlaoded files in a newly created folder of your choice (make sure the folder only contains the downloaded files and nothing else)
@@ -25,6 +25,6 @@
 
 
 ### Credits:-
- Credit to https://www.youtube.com/watch?v=h7II1fiaWKA for showing how to convert my source code file into a single .exe file.
+ Credit to https://www.youtube.com/watch?v=h7II1fiaWKA for showing how to convert my mutliple .lua source code file into a single .exe file.
  
 ### License:-
