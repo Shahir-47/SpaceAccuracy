@@ -28,4 +28,4 @@
  Credit to https://www.youtube.com/watch?v=h7II1fiaWKA for showing how to convert my mutliple .lua source code file into a single .exe file.
  
 ### License:-
-This Project uses a GNU General Public License v3.0. For more info refer to the LICENCE.md file
+This Project uses a GNU General Public License v3.0. For more info refer to the LICENSE file
