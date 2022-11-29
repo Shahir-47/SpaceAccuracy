@@ -19,7 +19,7 @@
 
  ###### Alternate way to install and run this game:-
   1. Download the file named "SourceCode"
-  2. Donwload and Intsall Love from :- https://love2d.org/
+  2. Donwload and Install Love from :- https://love2d.org/
   3. Launch the game by dragging the SourceCode folder to love.exe
 
 
