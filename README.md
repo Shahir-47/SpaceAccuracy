@@ -30,4 +30,5 @@ you fail to hit the target, the game end. Hence, the goal is to achieve the high
 ### License:-
 This Project uses a GNU General Public License v3.0. For more info refer to the LICENSE file
 
-### Note:- You'll notice that commits were made by the user @shahir1775. @shahir1775 is my old github account.So, I transfered ownserhip to my current account, which is @Shahir-47.
+### Note:- 
+You'll notice that commits were made by the user shahir1775. shahir1775 is my old github account.So, I transfered ownserhip to my current account, which is Shahir-47.
