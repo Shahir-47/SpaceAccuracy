@@ -25,7 +25,7 @@ you fail to hit the target, the game end. Hence, the goal is to achieve the high
 
 
 ### Credits:-
- Credit to https://www.youtube.com/watch?v=h7II1fiaWKA for showing how to convert my mutliple .lua source code file into a single .exe file.
+ Credit to https://www.youtube.com/watch?v=h7II1fiaWKA for showing me how to convert my mutliple .lua source code file into a single .exe file.
  
 ### License:-
 This Project uses a GNU General Public License v3.0. For more info refer to the LICENSE file
