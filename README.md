@@ -31,4 +31,4 @@ you fail to hit the target, the game end. Hence, the goal is to achieve the high
 This Project uses a GNU General Public License v3.0. For more info refer to the LICENSE file
 
 ### Note:- 
-You'll notice that commits were made by the user shahir1775. shahir1775 is my old github account.So, I transfered ownserhip to my current account, which is Shahir-47.
+You'll notice that there are 2 contributors for this repository. shahir1775 is my old github account. So, I transfered ownserhip to my current account, which is Shahir-47. Thus, there is only 1 actual contributor to this project.
