@@ -4,7 +4,7 @@
   A 2D shooter game that requires the user to shoot an alien. With every hit, the player gets a point and the alien moves faster, thus increasing the difficulty. If
 you fail to hit the target, the game end. Hence, the goal is to achieve the highest score possible by shooting the alien without missing.
   
-  My knowledge of Functions/Methods and OOP inspired me to code this game and see how far I can get. This game is coded in lua langauge which is similar to your traditional python language but is more useful when it comes to coding games. This is because lua makes it easier to code using the principles of Object Oriented Programming (OOP) than a traditional Integration Development Enivronments (IDE) that uses python. There are mainly 4 .lua source code files, which are in the "SourceCode" folder:
+  My knowledge of Functions/Methods and OOP inspired me to code this game and see how far I can get. This game is coded in lua langauge which is similar to your traditional python language but is more useful when it comes to coding games. This is because lua makes it easier to use and manipulate graphics and fully supports Object Oriented Programming (OOP). There are mainly 4 .lua source code files, which are in the "SourceCode" folder:
 
   1. main.lua:- controls the main function of the program like keyboard inputs and background drawing 
   2. player.lua:- the file of player 
