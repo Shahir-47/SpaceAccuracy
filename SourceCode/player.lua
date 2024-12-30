@@ -12,7 +12,7 @@ end
 function Player:update(dt)
     if love.keyboard.isDown("left") then
         if gamestate == 'play' then
-            musically = love.audio.newSource("audio/jump8.wav", "static")
+            musically = love.audio.newSource("audio/Jump8.wav", "static")
             musically:setVolume(0.05)
             musically:play()
         end
@@ -20,7 +20,7 @@ function Player:update(dt)
         self.x = self.x - self.speed * dt
     elseif love.keyboard.isDown("right") then
         if gamestate == 'play' then
-            musically = love.audio.newSource("audio/jump8.wav", "static")
+            musically = love.audio.newSource("audio/Jump8.wav", "static")
             musically:setVolume(0.05)
             musically:play()
         end
